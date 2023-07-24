@@ -1,5 +1,6 @@
 ### Привет! Меня зовут Иван Вашковец 👋 
 
+
 ### Навыки: 
 - Python (pandas, numpy, matplotlib, seaborn, scipy, pandahouse, sqlalchemy, telegram);
 - PostgreSQL (сложные запросы, joins, оконные функции), Redash, Clickhouse;
